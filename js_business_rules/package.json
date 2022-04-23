@@ -1,0 +1,25 @@
+{
+    "author": {
+        "name": "Yonatan Carlos Carranza Alarcon",
+        "email": "salmuz@gmail.com"
+    },
+    "name": "js_business_rules",
+    "version": "1.0.0",
+    "description": "Javascript Business Rules",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "contributors": [],
+    "engines": {
+        "node": "<=v16.14.2"
+    },
+    "dependencies": {
+        "dateformat": "^1.0.12"
+    },
+    "devDependencies": {
+        "mocha": "^3.4.1"
+    },
+    "scripts": {},
+    "license": "Apache License v2"
+}
